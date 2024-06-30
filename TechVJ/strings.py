@@ -1,6 +1,3 @@
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
 
 strings = {
     'need_login': "U have to /login before using then bot can download restricted content ❕",
@@ -25,7 +22,7 @@ https://t.me/b/botusername/4321
 
 **__MULTI POSTS__**
 
-__send public/private posts link as explained above with formate "from - to" to send multiple messages like below__
+__send public/private posts link as explained above with formate "from - to" to send multiple messages like below__ By @oo7jatji
 
 
 ```
@@ -36,6 +33,4 @@ https://t.me/c/xxxx/101 - 120
 
 __note that space in between doesn't matter__"""
        
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+
